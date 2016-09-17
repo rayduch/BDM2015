@@ -1,0 +1,222 @@
+151019_1706	1	globals	Period	NumPeriods	RepeatTreatment	Endowment	
+151019_1706	1	globals	1	1	0	1000	
+151019_1706	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	Proposer	Offer	OfferOther	r1	r2	Random	RandomOther	TimeOKInitialInfoOK	
+151019_1706	1	subjects	1	1	1	1000	1000	0	1	0	500	0.6409834891748538	0.5575030360172982	6410.392394784555	912.0144539354436	17	
+151019_1706	1	subjects	1	2	1	0	0	0	0	500	0	0.09119063387214701	0.1081152139735013	912.0144539354436	6410.392394784555	21	
+151019_1706	1	subjects	1	3	2	0	0	0	0	500	0	0.06057643334408125	0.09240125263687282	605.8567346934493	8115.800514857658	20	
+151019_1706	1	subjects	1	4	2	1000	1000	0	1	0	500	0.811517809895574	0.6224159019172266	8115.800514857658	605.8567346934493	5	
+151019_1706	1	summary	Period	
+151019_1706	1	summary	1	
+151019_1706	1	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	ProfitM1	ProposerM1	OfferM1	OfferOtherM1	
+151019_1706	1	session	1	1000	0	0	0	1000	1000	1000	1	0	500	
+151019_1706	1	session	2	0	0	0	0	0	0	0	0	500	0	
+151019_1706	1	session	3	0	0	0	0	0	0	0	0	500	0	
+151019_1706	1	session	4	1000	0	0	0	1000	1000	1000	1	0	500	
+151019_1706	2	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	AuctionStop	AuctionNoStop	
+151019_1706	2	globals	1	2	0	0	1	2	2	60	200	100	0.5	50	0	0.5	0	0	
+151019_1706	2	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Random	Audited	Fine	DeductionsGroup	MPCR	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	ProfitRET1	ProfitRET2	TimeOKDeclareOK	
+151019_1706	2	subjects	1	1	1	0	0	1	8	-1	-1	0	0	-1	0.1798309149126666	-1	0	-1	0.25	0	0	116	-1	99.00000000000004	10	8	1	73	79	32	58	82	1	116	4	1600	800	14	
+151019_1706	2	subjects	1	2	1	0	0	1	10	-1	-1	0	0	-1	0.3115345092078366	-1	0	-1	0.25	0	21	181	-1	99.00000000000004	10	10	1	24	86	88	68	76	1	181	2	2000	1000	13	
+151019_1706	2	subjects	1	3	1	0	0	1	9	-1	-1	0	0	-1	0.5118671481087185	-1	0	-1	0.25	0	0	53	-1	99.00000000000004	10	9	1	69	26	57	46	45	1	53	7	1800	900	24	
+151019_1706	2	subjects	1	4	1	0	0	1	9	-1	-1	0	0	-1	0.6849748243973474	-1	0	-1	0.25	0	19	122	-1	99.00000000000004	10	9	1	87	14	71	78	25	1	122	0	1800	900	18	
+151019_1706	2	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	AuctionStop	AuctionNoStop	
+151019_1706	2	globals	2	2	0	0	1	2	2	60	200	100	0.5	50	0	0.5	0	0	
+151019_1706	2	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Random	Audited	Fine	DeductionsGroup	MPCR	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	ProfitRET1	ProfitRET2	TimeOKDeclareOK	
+151019_1706	2	subjects	2	1	1	0	0	1	8	-1	-1	0	0	-1	0.3979678030116334	-1	0	-1	0.25	0	22	111	-1	99.00000000000004	10	8	1	82	46	85	94	65	1	111	0	1600	800	24	
+151019_1706	2	subjects	2	2	1	0	0	1	8	-1	-1	0	0	-1	0.04000701896846622	-1	0	-1	0.25	0	26	108	-1	99.00000000000004	10	8	1	27	98	26	99	10	1	108	12	1600	800	4	
+151019_1706	2	subjects	2	3	1	0	0	1	8	-1	-1	0	0	-1	0.255116470276898	-1	0	-1	0.25	0	27	107	-1	99.00000000000004	10	8	1	67	84	14	51	13	1	107	4	1600	800	28	
+151019_1706	2	subjects	2	4	1	0	0	1	13	-1	-1	0	0	-1	0.7750806625816415	-1	0	-1	0.25	0	28	186	-1	99.00000000000004	10	13	1	82	91	87	57	79	1	186	1	2600	1300	28	
+151019_1706	2	summary	Period	
+151019_1706	2	summary	1	
+151019_1706	2	summary	2	
+151019_1706	2	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	ProfitM1	ProposerM1	OfferM1	OfferOtherM1	
+151019_1706	2	session	1	1000	0	0	0	1000	1000	1000	1	0	500	
+151019_1706	2	session	2	0	0	0	0	0	0	0	0	500	0	
+151019_1706	2	session	3	0	0	0	0	0	0	0	0	500	0	
+151019_1706	2	session	4	1000	0	0	0	1000	1000	1000	1	0	500	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	1	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	1	1	1	800	800	1	4	8	800	700	70	70	1	2	0.5646333399064063	0	0	280	70	0.1477412735799985	0.4333764717138263	148.1746500517124	4	0	0	105	-1	99.00000000000004	10	8	1	84	38	81	56	42	1	105	0	-83	4	1	100	0	0	60	60	55	3	
+151019_1706	3	subjects	1	2	1	1970	1970	1	4	10	2000	1000	100	100	1	1	0.04208720756791868	0	0	280	70	0.4324493931757516	0.5318367069269702	432.9812298826786	2	0	8	48	-1	99.00000000000004	10	10	1	84	28	42	74	78	1	48	4	18	-	-	-	-	-	-	-	-	19	
+151019_1706	3	subjects	1	3	1	1060	1060	1	4	11	1100	1100	110	110	0	2	0.7291467407388365	0	0	280	70	0.1536296555556495	0.09683654648104521	153.7264921021306	3	0	26	130	-1	99.00000000000004	10	11	1	97	75	37	14	29	1	130	4	24	-	-	-	-	-	-	-	-	3	
+151019_1706	3	subjects	1	4	1	270	270	1	4	1	200	0	0	0	1	1	0.3226902751823376	0	0	280	70	0.8320093419551893	0.4127317245177607	832.4220736797071	1	0	26	130	-1	99.00000000000004	10	1	1	25	35	23	38	31	1	130	55	26	-	-	-	-	-	-	-	-	29	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	2	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	2	1	1	665	1465	1	4	6	600	0	0	0	1	2	0.1279458013027654	0	0	260	65	0.4595414667667548	0.4183720021594186	459.9598387689142	4	0	-	103	-1	99.00000000000004	10	6	1	94	59	35	89	80	1	103	1	26	-	-	-	-	-	-	-	-	12	
+151019_1706	3	subjects	2	2	1	1505	3475	1	4	8	1600	1600	160	160	0	1	0.0990212443745794	0	0	260	65	0.4604218408746746	0.4223801630653349	460.8442210377399	3	0	-	37	-1	99.00000000000004	10	8	1	90	62	71	28	82	1	37	5	26	-	-	-	-	-	-	-	-	27	
+151019_1706	3	subjects	2	3	1	1165	2225	1	4	12	1200	1000	100	100	1	2	0.5608869220879333	0	0	260	65	0.9434006390829574	0.8264995318960862	944.2271386148534	1	0	-	48	-1	99.00000000000004	10	12	1	73	46	77	78	87	1	48	0	23	-	-	-	-	-	-	-	-	12	
+151019_1706	3	subjects	2	4	1	2465	2735	1	4	12	2400	0	0	0	1	1	0.2165359152557961	0	0	260	65	0.5956018285805368	0.437462512607436	596.0392910931442	2	0	-	66	-1	99.00000000000004	10	12	1	21	47	76	32	85	1	66	1	26	-	-	-	-	-	-	-	-	30	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	3	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	3	1	1	1052.5	2517.5	1	4	10	1000	0	0	0	1	2	0.1455613868988871	0	0	210	52.5	0.8964369836712428	0.4196283358240632	896.8566120070669	1	0	-	80	-1	99.00000000000004	10	10	1	41	35	83	24	51	1	80	0	25	-	-	-	-	-	-	-	-	-43	
+151019_1706	3	subjects	3	2	1	1132.5	4607.5	1	4	6	1200	1200	120	120	0	1	0.4256646374360028	0	0	210	52.5	0.8878098190239676	0.6493578737831478	888.4591768977508	2	0	-	138	-1	99.00000000000004	10	6	1	81	99	76	57	96	1	138	0	-11	-	-	-	-	-	-	-	-	13	
+151019_1706	3	subjects	3	3	1	1262.5	3487.5	1	4	13	1300	900	90	90	1	2	0.8757430952395048	0	0	210	52.5	0.006920552815739323	0.7036799894197285	7.624232805159052	4	0	-	87	-1	99.00000000000004	10	13	1	13	47	71	60	10	1	87	1	25	-	-	-	-	-	-	-	-	27	
+151019_1706	3	subjects	3	4	1	2252.5	4987.5	1	4	11	2200	0	0	0	1	1	0.7574169094475997	0	0	210	52.5	0.07746032861874454	0.8320000990442932	78.29232871778883	3	0	-	149	-1	99.00000000000004	10	11	1	18	23	76	39	85	1	149	4	27	-	-	-	-	-	-	-	-	27	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	4	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	4	1	1	695	3212.5	1	4	7	700	700	70	70	0	2	0.7609225673419063	0	0	260	65	0.2541905940762677	0.05629933628081313	254.2468934125485	4	0	-	66	-1	99.00000000000004	10	7	1	99	56	88	28	26	1	66	4	14	4	7	700	0	700	70	260	695	10	
+151019_1706	3	subjects	4	2	1	1325	5932.5	1	4	7	1400	1400	140	140	0	1	0.4446916456542405	0	0	260	65	0.3919512915387523	0.5030039905118775	392.4542955292642	3	0	-	95	-1	99.00000000000004	10	7	1	37	58	43	80	70	1	95	3	25	4	7	1400	0	1400	140	260	1325	27	
+151019_1706	3	subjects	4	3	1	1015	4502.5	1	4	10	1000	500	50	50	1	2	0.3933992047763426	0	0	260	65	0.4718721082768739	0.3508536780024197	472.2229619548763	2	0	-	127	-1	99.00000000000004	10	10	0	78	13	94	71	30	1	107	2	25	4	10	1000	0	500	50	260	1015	15	
+151019_1706	3	subjects	4	4	1	265	5252.5	1	4	1	200	0	0	0	1	1	0.698706537344822	0	0	260	65	0.8460031248843312	0.8255893154188941	846.8287141997502	1	0	-	111	-1	99.00000000000004	10	1	1	78	68	21	29	46	1	111	41	27	4	1	200	0	0	0	260	265	29	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	5	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	5	1	1	1132.5	4345	1	4	11	1100	0	0	0	1	2	0.6440493076313517	0	0	130	32.5	0.3718018584753395	0.7965453620052642	372.5984038373448	2	0	-	92	-1	99.00000000000004	10	11	1	83	42	77	58	85	1	92	3	23	4	7	700	0	700	70	260	695	-26	
+151019_1706	3	subjects	5	2	1	1132.5	7065	1	4	6	1200	1000	100	100	1	1	0.4722321445458718	0	0	130	32.5	0.6570609294143789	0.1065093395796182	657.1674387539584	1	0	-	129	-1	99.00000000000004	10	6	1	91	56	59	51	41	1	129	1	4	4	7	1400	0	1400	140	260	1325	7	
+151019_1706	3	subjects	5	3	1	1012.5	5515	1	4	10	1000	200	20	20	1	2	0.2960512280911446	0	0	130	32.5	0.222944871626303	0.5378992224754297	223.4827708487784	4	0	-	93	-1	99.00000000000004	10	10	1	82	89	78	78	52	1	93	2	26	4	10	1000	0	500	50	260	1015	19	
+151019_1706	3	subjects	5	4	1	222.5	5475	1	4	1	200	100	10	10	1	1	0.607982757318757	0	0	130	32.5	0.3662022563471469	0.5660106663433885	366.7682670134903	3	0	-	110	-1	99.00000000000004	10	1	1	45	95	15	59	30	1	110	57	22	4	1	200	0	0	0	260	265	29	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	6	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	6	1	1	1085	5430	1	4	10	1000	0	0	0	1	2	0.5981522736130991	0	0	340	85	0.2881056057699516	0.2262482741969862	288.3318540441486	4	0	-	95	-1	99.00000000000004	10	10	1	69	52	50	16	39	1	95	1	25	4	7	700	0	700	70	260	695	27	
+151019_1706	3	subjects	6	2	1	1785	8850	1	4	9	1800	1000	100	100	1	1	0.3202982625552911	0	0	340	85	0.940115848062614	0.6532361584963445	940.7690842211104	2	0	-	94	-1	99.00000000000004	10	9	1	78	94	82	26	59	1	94	2	27	4	7	1400	0	1400	140	260	1325	24	
+151019_1706	3	subjects	6	3	1	1145	6660	1	4	11	1100	400	40	40	1	2	0.1171162166246754	0	0	340	85	0.9944626889165783	0.3444612018505396	994.8071501184288	1	0	-	65	-1	99.00000000000004	10	11	1	95	71	93	95	24	1	65	0	26	4	10	1000	0	500	50	260	1015	26	
+151019_1706	3	subjects	6	4	1	1885	7360	1	4	10	2000	2000	200	200	0	1	0.2524000635614619	0	0	340	85	0.4763600916957297	0.2343212567429623	476.5944129524727	3	0	-	66	-1	99.00000000000004	10	10	1	44	40	75	27	17	1	66	3	26	4	1	200	0	0	0	260	265	22	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	7	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	7	1	1	1077.5	6507.5	1	4	10	1000	0	0	0	1	2	0.3085066621697073	0	0	310	77.5	0.7709694214961349	0.3866432413396627	771.3560647374746	1	0	-	113	-1	99.00000000000004	10	10	0	42	22	34	22	16	1	133	3	22	4	7	700	0	700	70	260	695	27	
+151019_1706	3	subjects	7	2	1	2417.5	11267.5	1	4	13	2600	2600	260	260	0	1	0.244084514325524	0	0	310	77.5	0.573650467942306	0.8940017069196337	574.5444696492257	2	0	-	124	-1	99.00000000000004	10	13	1	40	53	80	57	95	1	124	1	27	4	7	1400	0	1400	140	260	1325	28	
+151019_1706	3	subjects	7	3	1	1327.5	7987.5	1	4	13	1300	500	50	50	1	2	0.1520576272867888	0	0	310	77.5	0.2534267759199379	0.2115869313532426	253.6383628512912	3	0	-	155	-1	99.00000000000004	10	13	1	12	87	40	79	38	1	155	1	26	4	10	1000	0	500	50	260	1015	26	
+151019_1706	3	subjects	7	4	1	77.5	7437.5	1	4	0	0	0	0	0	0	1	0.7808521388940756	0	0	310	77.5	0.1437026877625392	0.03929235694897005	143.7419801194882	4	0	-	-1	-1	99.00000000000004	10	0	-1	38	74	80	69	90	0	0	0	27	4	1	200	0	0	0	260	265	3	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	8	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	8	1	1	872.5	7380	1	4	8	800	0	0	0	1	2	0.3734883332501577	0	0	290	72.5	0.8669488778649591	0.0433968748168074	866.9922747397759	3	0	-	150	-1	99.00000000000004	10	8	1	16	93	85	91	53	1	150	2	28	4	7	700	0	700	70	260	695	22	
+151019_1706	3	subjects	8	2	1	2232.5	13500	1	4	12	2400	2400	240	240	0	1	0.2547165417367204	0	0	290	72.5	0.5514989823808423	0.01200145390443572	551.5109838347466	4	0	-	114	-1	99.00000000000004	10	12	1	41	99	73	11	78	1	114	1	27	4	7	1400	0	1400	140	260	1325	29	
+151019_1706	3	subjects	8	3	1	1122.5	9110	1	4	11	1100	500	50	50	1	2	0.533684153358305	0	0	290	72.5	0.9772469182392801	0.9334332728448479	978.180351512125	1	0	-	81	-1	99.00000000000004	10	11	0	77	45	89	43	18	1	71	1	28	4	10	1000	0	500	50	260	1015	21	
+151019_1706	3	subjects	8	4	1	272.5	7710	1	4	1	200	0	0	0	1	1	0.5641232815404066	0	0	290	72.5	0.9725402137136739	0.9062540842714971	973.4464677979454	2	0	-	147	-1	99.00000000000004	10	1	1	50	30	27	13	14	1	147	55	22	4	1	200	0	0	0	260	265	30	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	9	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	9	1	1	692.5	8072.5	1	4	6	600	0	0	0	1	2	0.04677350309061516	0	0	370	92.5	0.1460823119366925	0.9553702715576488	147.0376822082501	4	0	-	35	-1	99.00000000000004	10	6	1	25	99	29	59	93	1	35	6	23	4	7	700	0	700	70	260	695	28	
+151019_1706	3	subjects	9	2	1	2072.5	15572.5	1	4	11	2200	2200	220	220	0	1	0.8634015344378546	0	0	370	92.5	0.7547753964340199	0.145630993482485	754.9210274275025	2	0	-	96	-1	99.00000000000004	10	11	1	34	86	96	27	59	1	96	2	28	4	7	1400	0	1400	140	260	1325	27	
+151019_1706	3	subjects	9	3	1	1142.5	10252.5	1	4	11	1100	500	50	50	1	2	0.6800175009667955	0	0	370	92.5	0.7124529544787728	0.09070815289891705	712.5436626316717	3	0	-	132	-1	99.00000000000004	10	11	1	64	47	63	47	80	1	132	4	26	4	10	1000	0	500	50	260	1015	29	
+151019_1706	3	subjects	9	4	1	2192.5	9902.5	1	4	11	2200	1000	100	100	1	1	0.3564462947456382	0	0	370	92.5	0.8850486371130909	0.9231229060902833	885.9717600191812	1	0	-	136	-1	99.00000000000004	10	11	1	35	85	54	25	91	1	136	3	25	4	1	200	0	0	0	260	265	24	
+151019_1706	3	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	3	globals	10	10	0	0	1	2	2	60	200	100	0.1	10	0	0.5	0.25	4	0	0	
+151019_1706	3	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	Random1Type	Random2Type	RandomType	rank	Bonus	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	TimeOKResultsOK	
+151019_1706	3	subjects	10	1	1	1067.5	9140	1	4	10	1000	0	0	0	1	2	0.3909442431251259	0	0	270	67.5	0.4944930134781138	0.0934647466491278	494.586478224763	4	0	-	170	-1	99.00000000000004	10	10	1	58	61	46	54	19	1	170	5	22	4	7	700	0	700	70	260	695	-19	
+151019_1706	3	subjects	10	2	1	2047.5	17620	1	4	11	2200	2200	220	220	0	1	0.8619969318909556	0	0	270	67.5	0.8954183649716053	0.6605681444800311	896.0789331160854	3	0	-	155	-1	99.00000000000004	10	11	1	34	13	51	53	95	1	155	2	27	4	7	1400	0	1400	140	260	1325	28	
+151019_1706	3	subjects	10	3	1	1117.5	11370	1	4	11	1100	500	50	50	1	2	0.9905358636707701	0	0	270	67.5	0.8977028349869433	0.5505767192461419	898.2534117061894	2	0	-	100	-1	99.00000000000004	10	11	1	65	16	68	70	58	1	100	0	26	4	10	1000	0	500	50	260	1015	22	
+151019_1706	3	subjects	10	4	1	2467.5	12370	1	4	12	2400	0	0	0	1	1	0.9731337320865755	0	0	270	67.5	0.9407935305222839	0.5021308714068173	941.2956613936907	1	0	-	94	-1	99.00000000000004	10	12	1	59	64	60	44	94	1	94	0	28	4	1	200	0	0	0	260	265	26	
+151019_1706	3	summary	Period	AvgCheat	AvgAdditions	AvgPrelimProf	AvgDeclared	
+151019_1706	3	summary	1	0.75	7.5	1025	700	
+151019_1706	3	summary	2	0.75	9.5	1450	650	
+151019_1706	3	summary	3	0.75	10	1425	525	
+151019_1706	3	summary	4	0.5	6.25	825	650	
+151019_1706	3	summary	5	1	7	875	325	
+151019_1706	3	summary	6	0.75	10	1475	850	
+151019_1706	3	summary	7	0.5	9	1225	775	
+151019_1706	3	summary	8	0.75	8	1125	725	
+151019_1706	3	summary	9	0.75	9.75	1525	925	
+151019_1706	3	summary	10	0.75	11	1675	675	
+151019_1706	3	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	ProfitM1	ProposerM1	OfferM1	OfferOtherM1	Group	Type	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	
+151019_1706	3	session	1	10140	0	0	0	10140	10140	1000	1	0	500	1	2	4	7	700	0	700	70	260	695	
+151019_1706	3	session	2	17620	0	0	0	17620	17620	0	0	500	0	1	1	4	7	1400	0	1400	140	260	1325	
+151019_1706	3	session	3	11370	0	0	0	11370	11370	0	0	500	0	1	2	4	10	1000	0	500	50	260	1015	
+151019_1706	3	session	4	13370	0	0	0	13370	13370	1000	1	0	500	1	1	4	1	200	0	0	0	260	265	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	1	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	4	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	1	1	1	926.25	926.25	1	4	9	900	450	45	45	1	2	0.2478250345437904	0	0	285	71.25	24	87	-1	99.00000000000004	10	9	1	61	58	24	50	64	1	87	3	22	4	1	100	1	0	60	60	55	20	
+151019_1706	4	subjects	1	2	1	971.25	971.25	1	4	5	1000	1000	100	100	0	1	0.1692883121638039	0	0	285	71.25	19	57	-1	99.00000000000004	10	5	1	24	78	54	16	75	1	57	4	27	-	-	-	-	-	-	-	-	29	
+151019_1706	4	subjects	1	3	1	1241.25	1241.25	1	4	13	1300	1300	130	130	0	2	0.9032041113372912	0	0	285	71.25	27	61	-1	99.00000000000004	10	13	1	36	50	27	17	97	1	61	2	25	-	-	-	-	-	-	-	-	26	
+151019_1706	4	subjects	1	4	1	2061.25	2061.25	1	4	10	2000	100	10	10	1	1	0.439262880682602	0	0	285	71.25	14	170	-1	99.00000000000004	10	10	1	44	18	34	45	40	1	170	1	24	-	-	-	-	-	-	-	-	29	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	2	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	4	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	2	1	1	1112.75	2039	1	4	11	1100	400	40	40	1	2	0.6074352663044982	0	0	211	52.75	-	96	-1	99.00000000000004	10	11	1	63	55	82	16	38	1	96	5	18	-	-	-	-	-	-	-	-	27	
+151019_1706	4	subjects	2	2	1	412.75	1384	1	4	2	400	400	40	40	0	1	0.5311099968529819	0	0	211	52.75	-	112	-1	99.00000000000004	10	2	1	15	42	95	28	77	1	112	12	8	-	-	-	-	-	-	-	-	30	
+151019_1706	4	subjects	2	3	1	1222.75	2464	1	4	13	1300	1300	130	130	0	2	0.8138292426307822	0	0	211	52.75	-	139	-1	99.00000000000004	10	13	1	77	52	37	26	90	1	139	2	27	-	-	-	-	-	-	-	-	26	
+151019_1706	4	subjects	2	4	1	2251.75	4313	1	4	11	2200	10	1	1	1	1	0.4954163648632431	0	0	211	52.75	-	78	-1	99.00000000000004	10	11	1	98	47	26	27	10	1	78	1	26	-	-	-	-	-	-	-	-	28	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	3	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	4	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	3	1	1	1122.5	3161.5	1	4	11	1100	200	20	20	1	2	0.969068186808875	0	0	170	42.5	-	89	-1	99.00000000000004	10	11	1	11	86	51	15	64	1	89	0	22	-	-	-	-	-	-	-	-	26	
+151019_1706	4	subjects	3	2	1	222.5	1606.5	1	4	1	200	200	20	20	0	1	0.05099625841295172	1	0	170	42.5	-	135	-1	99.00000000000004	10	1	0	18	85	21	32	79	1	123	43	12	-	-	-	-	-	-	-	-	30	
+151019_1706	4	subjects	3	3	1	1212.5	3676.5	1	4	13	1300	1300	130	130	0	2	0.002556617372928475	1	0	170	42.5	-	116	-1	99.00000000000004	10	13	1	78	57	56	23	93	1	116	0	28	-	-	-	-	-	-	-	-	25	
+151019_1706	4	subjects	3	4	1	2642.5	6955.5	1	4	13	2600	0	0	0	1	1	0.84013315189636	0	0	170	42.5	-	100	-1	99.00000000000004	10	13	1	11	22	41	81	91	1	100	2	27	-	-	-	-	-	-	-	-	30	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	4	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	4	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	4	1	1	670	3831.5	1	4	11	1100	0	0	660	1	2	0.03234785843284235	1	550	920	230	-	109	-1	99.00000000000004	10	11	1	60	70	41	76	71	1	109	3	24	4	11	1100	1	0	660	920	670	17	
+151019_1706	4	subjects	4	2	1	1310	2916.5	1	4	6	1200	1200	120	120	0	1	0.00390108442115648	1	0	920	230	-	102	-1	99.00000000000004	10	6	1	41	55	72	86	69	1	102	6	21	4	6	1200	1	1200	120	920	1310	10	
+151019_1706	4	subjects	4	3	1	1490	5166.5	1	4	14	1400	1400	140	140	0	2	0.6993907409251624	0	0	920	230	-	160	-1	99.00000000000004	10	14	1	52	87	68	41	23	1	160	0	28	4	14	1400	0	1400	140	920	1490	23	
+151019_1706	4	subjects	4	4	1	430	7385.5	1	4	1	200	0	0	0	1	1	0.44189393354668	0	0	920	230	-	108	-1	99.00000000000004	10	1	1	78	72	81	43	82	1	108	56	28	4	1	200	0	0	0	920	430	29	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	5	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	5	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	5	1	1	850	4681.5	1	4	8	800	400	40	40	1	2	0.8166839335191455	0	0	360	90	-	97	-1	99.00000000000004	10	8	1	97	84	13	32	65	1	97	7	22	4	11	1100	1	0	660	920	670	22	
+151019_1706	4	subjects	5	2	1	1890	4806.5	1	4	10	2000	2000	200	200	0	1	0.4879885108619875	0	0	360	90	-	126	-1	99.00000000000004	10	10	1	52	97	21	95	28	1	126	3	27	4	6	1200	1	1200	120	920	1310	27	
+151019_1706	4	subjects	5	3	1	1170	6336.5	1	4	12	1200	1200	120	120	0	2	0.2020008150497455	0	0	360	90	-	113	-1	99.00000000000004	10	12	1	92	21	76	11	10	1	113	0	27	4	14	1400	0	1400	140	920	1490	28	
+151019_1706	4	subjects	5	4	1	1090	8475.5	1	4	5	1000	0	0	0	1	1	0.5919994551651178	0	0	360	90	-	137	-1	99.00000000000004	10	5	1	61	25	35	61	27	1	137	21	15	4	1	200	0	0	0	920	430	30	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	6	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	10	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	6	1	1	1138.75	5820.25	1	4	11	1100	550	55	55	1	2	0.1925775889272697	0	0	375	93.75	-	91	-1	99.00000000000004	10	11	1	29	34	26	14	26	1	91	1	24	4	11	1100	1	0	660	920	670	24	
+151019_1706	4	subjects	6	2	1	1713.75	6520.25	1	4	9	1800	1800	180	180	0	1	0.08277467828373177	1	0	375	93.75	-	67	-1	99.00000000000004	10	9	1	64	13	45	95	87	1	67	1	26	4	6	1200	1	1200	120	920	1310	30	
+151019_1706	4	subjects	6	3	1	1353.75	7690.25	1	4	14	1400	1400	140	140	0	2	0.7276436997240613	0	0	375	93.75	-	84	-1	99.00000000000004	10	14	1	76	55	27	39	30	1	84	1	27	4	14	1400	0	1400	140	920	1490	27	
+151019_1706	4	subjects	6	4	1	493.75	8969.25	1	4	2	400	0	0	0	1	1	0.5336501815047349	0	0	375	93.75	-	102	-1	99.00000000000004	10	2	1	90	97	27	78	10	1	102	52	28	4	1	200	0	0	0	920	430	28	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	7	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	9	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	7	1	1	733.75	6554	1	4	9	900	450	45	315	1	2	0.07422458616747735	1	225	595	148.75	-	64	-1	99.00000000000004	10	9	1	37	16	94	88	82	1	64	0	24	4	11	1100	1	0	660	920	670	24	
+151019_1706	4	subjects	7	2	1	1948.75	8469	1	4	10	2000	2000	200	200	0	1	0.7664081564948001	0	0	595	148.75	-	173	-1	99.00000000000004	10	10	0	36	83	88	70	70	1	183	0	26	4	6	1200	1	1200	120	920	1310	4	
+151019_1706	4	subjects	7	3	1	868.75	8559	1	4	8	800	800	80	80	0	2	0.6423280856769197	0	0	595	148.75	-	92	-1	99.00000000000004	10	8	1	24	21	71	53	25	1	92	1	27	4	14	1400	0	1400	140	920	1490	26	
+151019_1706	4	subjects	7	4	1	348.75	9318	1	4	1	200	0	0	0	1	1	0.6036901928501623	0	0	595	148.75	-	79	-1	99.00000000000004	10	1	1	77	73	95	95	46	1	79	56	27	4	1	200	0	0	0	920	430	30	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	8	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	8	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	8	1	1	1122.1	7676.1	1	4	11	1100	550	55	55	1	2	0.6269002126655077	0	0	308.4	77.09999999999999	-	67	-1	99.00000000000004	10	11	1	19	24	22	77	85	1	67	3	25	4	11	1100	1	0	660	920	670	28	
+151019_1706	4	subjects	8	2	1	77.09999999999999	8546.1	1	4	0	0	0	0	0	0	1	0.1241224487890128	0	0	308.4	77.09999999999999	-	0	-1	99.00000000000004	10	0	0	42	30	93	94	40	1	124	30	24	4	6	1200	1	1200	120	920	1310	30	
+151019_1706	4	subjects	8	3	1	1247.1	9806.1	1	4	13	1300	1300	130	130	0	2	0.6544315380297748	0	0	308.4	77.09999999999999	-	83	-1	99.00000000000004	10	13	1	18	68	95	76	97	1	83	2	26	4	14	1400	0	1400	140	920	1490	29	
+151019_1706	4	subjects	8	4	1	2153.7	11471.7	1	4	11	2200	1234	123.4	123.4	1	1	0.7427279319347478	0	0	308.4	77.09999999999999	-	90	-1	99.00000000000004	10	11	1	86	26	49	64	90	1	90	1	25	4	1	200	0	0	0	920	430	30	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	9	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	10	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	9	1	1	1337.5	9013.6	1	4	13	1300	500	50	50	1	2	0.2417500732660992	0	0	350	87.5	-	89	-1	99.00000000000004	10	13	1	74	60	16	94	23	1	89	0	21	4	11	1100	1	0	660	920	670	29	
+151019_1706	4	subjects	9	2	1	87.5	8633.6	1	4	0	0	0	0	0	0	1	0.9246213421805861	0	0	350	87.5	-	888	-1	99.00000000000004	10	0	0	52	69	90	22	78	1	87	5	29	4	6	1200	1	1200	120	920	1310	30	
+151019_1706	4	subjects	9	3	1	987.5	10793.6	1	4	10	1000	1000	100	100	0	2	0.4915400005371962	0	0	350	87.5	-	123	-1	99.00000000000004	10	10	1	29	60	19	47	51	1	123	1	28	4	14	1400	0	1400	140	920	1490	28	
+151019_1706	4	subjects	9	4	1	2687.5	14159.2	1	4	14	2800	2000	200	200	1	1	0.5795905420461626	0	0	350	87.5	-	122	-1	99.00000000000004	10	14	1	61	67	72	98	34	1	122	1	19	4	1	200	0	0	0	920	430	26	
+151019_1706	4	globals	Period	NumPeriods	RepeatTreatment	Debug	nGroups	length	nNumbers	TRet	ECUperAddT1	ECUperAddT2	TaxRate	TaxRateToShow	AuditRate	PercentageFine	MPCR	R	RoundToPay	AuctionStop	AuctionNoStop	
+151019_1706	4	globals	10	10	0	0	1	2	2	60	200	100	0.1	10	0.1	0.5	0.25	3	4	0	0	
+151019_1706	4	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	RoundToPay	nCorrectRET	ProfitRET	Declared	Deduction	TotalDeduction	Cheat	Type	Random	Audited	Fine	DeductionsGroup	ReceivedFromGroup	TimeOKInitialInfoOK	nAdding	rand	limit	limitInf	nCorrectSum	correctAct	add1	add2	add3	add4	add5	i	sumSol	TimeOKRETAddingOK	TimeOKDeclareOK	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	TimeOKResultsOK	
+151019_1706	4	subjects	10	1	1	1080	10093.6	1	4	10	1000	0	0	0	1	2	0.5821965181185848	0	0	320	80	-	151	-1	99.00000000000004	10	10	1	13	44	43	53	47	1	151	3	25	4	11	1100	1	0	660	920	670	27	
+151019_1706	4	subjects	10	2	1	1700	10333.6	1	4	9	1800	1800	180	180	0	1	0.528137398198311	0	0	320	80	-	127	-1	99.00000000000004	10	9	0	16	54	75	13	66	1	117	2	28	4	6	1200	1	1200	120	920	1310	29	
+151019_1706	4	subjects	10	3	1	1340	12133.6	1	4	14	1400	1400	140	140	0	2	0.4492061247346951	0	0	320	80	-	35	-1	99.00000000000004	10	14	1	82	78	59	76	21	1	35	0	28	4	14	1400	0	1400	140	920	1490	4	
+151019_1706	4	subjects	10	4	1	280	14439.2	1	4	1	200	0	0	0	1	1	0.8745262245063327	0	0	320	80	-	81	-1	99.00000000000004	10	1	1	78	74	60	10	97	1	81	49	20	4	1	200	0	0	0	920	430	99999	
+151019_1706	4	summary	Period	AvgCheat	AvgAdditions	AvgPrelimProf	AvgDeclared	
+151019_1706	4	summary	1	0.5	9.25	1300	712.5	
+151019_1706	4	summary	2	0.5	9.25	1250	527.5	
+151019_1706	4	summary	3	0.5	9.5	1300	425	
+151019_1706	4	summary	4	0.5	8	975	650	
+151019_1706	4	summary	5	0.5	8.75	1250	900	
+151019_1706	4	summary	6	0.5	9	1175	937.5	
+151019_1706	4	summary	7	0.5	7	975	812.5	
+151019_1706	4	summary	8	0.5	8.75	1150	771	
+151019_1706	4	summary	9	0.5	9.25	1275	875	
+151019_1706	4	summary	10	0.5	8.5	1100	800	
+151019_1706	4	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	ProfitM1	ProposerM1	OfferM1	OfferOtherM1	Group	Type	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	
+151019_1706	4	session	1	20233.6	0	0	0	20233.6	20233.6	1000	1	0	500	1	2	4	7	700	0	700	70	260	695	4	11	1100	1	0	660	920	670	
+151019_1706	4	session	2	27953.6	0	0	0	27953.6	27953.6	0	0	500	0	1	1	4	7	1400	0	1400	140	260	1325	4	6	1200	1	1200	120	920	1310	
+151019_1706	4	session	3	23503.6	0	0	0	23503.6	23503.6	0	0	500	0	1	2	4	10	1000	0	500	50	260	1015	4	14	1400	0	1400	140	920	1490	
+151019_1706	4	session	4	27809.2	0	0	0	27809.2	27809.2	1000	1	0	500	1	1	4	1	200	0	0	0	260	265	4	1	200	0	0	0	920	430	
+151019_1706	5	globals	Period	NumPeriods	RepeatTreatment	debug	MoneyA1	MoneyA2	MoneyB1	MoneyB2	pos1[1]	pos1[2]	pos1[3]	pos1[4]	auxiliar[1]	auxiliar[2]	auxiliar[3]	auxiliar[4]	
+151019_1706	5	globals	1	1	0	0	2	1.6	3.85	0.1	4	2	1	3	5	6	7	8	
+151019_1706	5	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	ProfitRiskAv	b	dec[1]	dec[2]	dec[3]	dec[4]	dec[5]	dec[6]	dec[7]	dec[8]	dec[9]	dec[10]	TimeOKInicialRiskAversionOK	i	rl	r	TimeOKLoteriasOK	k	y	aux	auxpos	TimeOKResultsRiskAvOK	
+151019_1706	5	subjects	1	1	1	0	0	0	1.6	0	0	0	0	0	0	0	1	1	1	1	26	7	4	0.5267832067454156	-121	4	5	8	3	0	
+151019_1706	5	subjects	1	2	1	0	0	0	3.85	0	0	0	0	0	0	1	1	1	1	1	24	6	10	0.3641207815912183	-55	0	0	0	0	-	
+151019_1706	5	subjects	1	3	1	0	0	0	1.6	0	0	0	0	0	0	0	0	1	1	1	25	8	5	0.5498641489771493	-43	0	0	0	0	-	
+151019_1706	5	subjects	1	4	1	0	0	0	0.1	0	0	0	0	0	1	1	1	1	1	1	29	5	8	0.2966104365403813	-65	0	0	0	0	-	
+151019_1706	5	summary	Period	
+151019_1706	5	summary	1	
+151019_1706	5	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	ProfitM1	ProposerM1	OfferM1	OfferOtherM1	Group	Type	RoundToPayM2	CorrectAnsM2	ProfitRETM2	AuditedM2	DeclaredM2	DeductionM2	GroupPayM2	ProfitM2	RoundToPayM3	CorrectAnsM3	ProfitRETM3	AuditedM3	DeclaredM3	DeductionM3	GroupPayM3	ProfitM3	LotteryM4	DecisionM4	ProfitM4	
+151019_1706	5	session	1	20233.6	0	0	0	20233.6	20233.6	1000	1	0	500	1	2	4	7	700	0	700	70	260	695	4	11	1100	1	0	660	920	670	4	0	1.6	
+151019_1706	5	session	2	27953.6	0	0	0	27953.6	27953.6	0	0	500	0	1	1	4	7	1400	0	1400	140	260	1325	4	6	1200	1	1200	120	920	1310	10	1	3.85	
+151019_1706	5	session	3	23503.6	0	0	0	23503.6	23503.6	0	0	500	0	1	2	4	10	1000	0	500	50	260	1015	4	14	1400	0	1400	140	920	1490	5	0	1.6	
+151019_1706	5	session	4	27809.2	0	0	0	27809.2	27809.2	1000	1	0	500	1	1	4	1	200	0	0	0	260	265	4	1	200	0	0	0	920	430	8	1	0.1	
