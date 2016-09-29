@@ -1,5 +1,7 @@
-# BDM2015
-replication for "A comprehensive comparison of students and non-students in classic experimental games" Belot Duch and Miller 2015 JEBO
+: This repository contains replication material for
+
+# A comprehensive comparison of students and non-students in classic experimental games
+ Belot Duch and Miller (2015), Journal of Economic Behavior and Organisation
 
 
 Abstract
