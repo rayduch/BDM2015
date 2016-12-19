@@ -10,4 +10,5 @@ This study exploits the opening of the experimental lab in Oxford to compare the
 The reposotoruy includes:
 
  - ZRree code for replicating the experiment, in the folder "ZTree files"
+  - Experimental instructions "Instructions English.doc"
  
