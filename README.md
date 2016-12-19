@@ -11,7 +11,8 @@ The reposotoruy includes:
 
  - ZRree code for replicating the experiment, in the folder "ZTree files"
  - Experimental instructions "Instructions English.doc"
- Data
+ 
+  - Data:
   - Raw data  "151019_1706.xls"	
   - Stata formated data "master2_file.dta"
   - Stata formated wide data "datawide_2.dta" 
