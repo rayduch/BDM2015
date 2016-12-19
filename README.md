@@ -1,4 +1,4 @@
-: This repository contains replication material for
+This repository contains replication material for
 
 # A comprehensive comparison of students and non-students in classic experimental games
  Belot Duch and Miller (2015), Journal of Economic Behavior and Organisation
@@ -10,5 +10,5 @@ This study exploits the opening of the experimental lab in Oxford to compare the
 The reposotoruy includes:
 
  - ZRree code for replicating the experiment, in the folder "ZTree files"
-  - Experimental instructions "Instructions English.doc"
+ - Experimental instructions "Instructions English.doc"
  
