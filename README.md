@@ -13,7 +13,7 @@ The reposotoruy includes:
  - Experimental instructions "Instructions English.doc"
  
  - Data:
-  - Raw data  "151019_1706.xls"	
+  - Raw data combined in "151019_1706.xls"	and separated by session
   - Stata formated data "master2_file.dta"
   - Stata formated wide data "datawide_2.dta" 
 
